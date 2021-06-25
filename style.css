@@ -1,4 +1,25 @@
 body {
   margin: 0;
   padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+/* Global */
+
+/* Header */
+
+#header-container {
+  text-align: center;
+  background: #1abc9c;
+  padding: 80px;
+  color: #fff;
+}
+
+header h1 {
+  font-size: 40px;
+}
+
+header p {
+  font-size: 16px;
 }
